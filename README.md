@@ -1,7 +1,9 @@
-# NumPyCNN: Implementing Convolutional Neural Networks From Scratch
+# NumPyCNN
 NumPyCNN is a Python implementation for convolutional neural networks (CNNs) from scratch using NumPy. 
 
-**IMPORTANT** *If you are coming for the code of the tutorial titled [Building Convolutional Neural Network using NumPy from Scratch]( [https://www.linkedin.com/pulse/building-convolutional-neural-network-using-numpy-from-ahmed-gad](https://www.linkedin.com/pulse/building-convolutional-neural-network-using-numpy-from-ahmed-gad/)), then it has been moved to the [TutorialProject](https://github.com/ahmedfgad/NumPyCNN/tree/master/TutorialProject) directory on 20 May 2020.*
+![Building CNN in Python](https://user-images.githubusercontent.com/16560492/82431022-6c3a1200-9a8e-11ea-8f1b-b055196d76e3.png)
+
+**IMPORTANT** *If you are coming for the code of the gitchat tutorial titled [Building Convolutional Neural Network using NumPy from Scratch (手把手带你开始计算机视觉项目——使用NumPy亲手搭建CNN，熟悉网络结结构)]( [https://gitbook.cn/gitchat/activity/5fddbca4201c01667e62c3c4)), then you would just use the python code `NumPyCNN.py`.
 
 The project has a single module named `cnn.py` which implements all classes and functions needed to build the CNN.
 
@@ -20,16 +22,14 @@ Read about building neural networks in Python through the tutorial titled [**Art
 
 [![Building Neural Networks Python](https://user-images.githubusercontent.com/16560492/82078281-30472b80-96e1-11ea-8017-6a1f4383d602.jpg)](https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad)
 
-## 2. Building CNN in Python
+## 2. NumPyCNN: Building CNN in Python
 
-To start with coding the genetic algorithm, you can check the tutorial titled [**Building Convolutional Neural Network using NumPy from Scratch**](https://www.linkedin.com/pulse/building-convolutional-neural-network-using-numpy-from-ahmed-gad) available at these links:
+To start with coding the genetic algorithm, you can check the tutorial titled [**Building Convolutional Neural Network using NumPy from Scratch**](https://gitbook.cn/new/gitchat/activity/5fddbca4201c01667e62c3c4) available at these links:
 
 - [Towards Data Science](https://towardsdatascience.com/building-convolutional-neural-network-using-numpy-from-scratch-b30aac50e50a)
 - [GitChat](https://gitbook.cn/gitchat/activity/5fddbca4201c01667e62c3c4)
 
-[This tutorial](https://www.linkedin.com/pulse/building-convolutional-neural-network-using-numpy-from-ahmed-gad)) is prepared based on a previous version of the project but it still a good resource to start with coding CNNs.
-
-[![Building CNN in Python](https://user-images.githubusercontent.com/16560492/82431022-6c3a1200-9a8e-11ea-8f1b-b055196d76e3.png)](https://www.linkedin.com/pulse/building-convolutional-neural-network-using-numpy-from-ahmed-gad)
+[![Building CNN in Python](https://user-images.githubusercontent.com/16560492/82431022-6c3a1200-9a8e-11ea-8f1b-b055196d76e3.png)](https://gitbook.cn/new/gitchat/activity/5fddbca4201c01667e62c3c4)
 
 ## 3. Derivation of CNN from FCNN
 
@@ -49,3 +49,7 @@ You can also check my book cited as [**Ahmed Fawzy Gad 'Practical Computer Visio
 - [Google Books](https://books.google.com.eg/books?id=xLd9DwAAQBAJ)
 
 ![Fig04](https://user-images.githubusercontent.com/16560492/78830077-ae7c2800-79e7-11ea-980b-53b6bd879eeb.jpg)
+
+## Acknowledgement
+
+@GitChat, @ahmedfgad
