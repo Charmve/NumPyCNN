@@ -3,7 +3,7 @@ NumPyCNN is a Python implementation for convolutional neural networks (CNNs) fro
 
 ![Building CNN in Python](https://user-images.githubusercontent.com/16560492/82431022-6c3a1200-9a8e-11ea-8f1b-b055196d76e3.png)
 
-**IMPORTANT** *If you are coming for the code of the gitchat tutorial titled [Building Convolutional Neural Network using NumPy from Scratch (手把手带你开始计算机视觉项目——使用NumPy亲手搭建CNN，熟悉网络结结构)]( [https://gitbook.cn/gitchat/activity/5fddbca4201c01667e62c3c4)), then you would just use the python code `NumPyCNN.py`.
+**IMPORTANT** *If you are coming for the code of the gitchat tutorial titled [Building Convolutional Neural Network using NumPy from Scratch (手把手带你开始计算机视觉项目——使用NumPy亲手搭建CNN，熟悉网络结结构)](https://gitbook.cn/gitchat/activity/5fddbca4201c01667e62c3c4), then you would just use the python code `NumPyCNN.py`.
 
 The project has a single module named `cnn.py` which implements all classes and functions needed to build the CNN.
 
